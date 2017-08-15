@@ -9,9 +9,9 @@
 ### 一. 提交图片到github方便后续使用：
 1. `git clone ‘此仓库url’`   #克隆此仓库到本地，如: `git clone https://github.com/yanxiangyfg/weibo_picture.git`
 2. 将所需图片放入仓库，然后执行git操作进行提交：
-	`git add  .`  			#添加新增到本地仓库
-	`git commit -m "提交日志"`  	#增加提交日志
-	`git push origin master`  	#提交本地修改到远程github服务器,输入github的用户名和密码能成功提交
+* `git add  .`  		#添加新增到本地仓库
+* `git commit -m "提交日志"`  	#增加提交日志
+* `git push origin master`  	#提交本地修改到远程github服务器,输入github的用户名和密码能成功提交
 
 ### 二.获取正在的图片地址，方便在微博中使用
 * 点击图片，如此处点击二叉树.png，得到地址为：`https://github.com/yanxiangyfg/weibo_picture/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91.png`
